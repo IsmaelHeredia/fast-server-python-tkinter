@@ -1,1 +1,3 @@
-# fast-server-python-tkinter
+# Fast Server
+
+En este script se hizo un generador de servidores en NodeJS para usar después de generar una build usando un framework frontend, en esta versión se admite : React, Angular y VueJS. En la interfaz en Tkinter se pide el directorio donde se encuentra la build, el directorio donde se desea generar el servidor NodeJS, el framework frontend y el puerto en el que estará activo el servidor. El directorio en el que esta el servidor NodeJS generado esta listo para usarse con el comando "node app.js".
